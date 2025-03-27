@@ -1,4 +1,4 @@
-gemini api
+google-genai
 langchain
 streamlit
 python-dotenv
